@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import from './helpers';
+import from './foods';
+import from './index';
 
 function App() {
   return (
